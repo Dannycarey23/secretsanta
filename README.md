@@ -1,4 +1,4 @@
-# Secret Santa!!
+# Secret Santa
 
 This app is a solo project based on the secret santa game that we have all been subjected to at somepoint. 
 
