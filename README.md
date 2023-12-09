@@ -19,4 +19,3 @@ This app is a solo project based on the secret santa game that we have all been 
 
 - Background image by <a href="https://pixabay.com/users/anncapictures-1564471/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2947257">Annette</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2947257">Pixabay</a>
 
-# secretsanta
